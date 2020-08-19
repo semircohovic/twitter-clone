@@ -23,7 +23,7 @@ function Post({
                 <div className="post_header">
                     <div className="post__headerText">
                         <h3>Semir Cohovic{" "}
-                            <span>
+                            <span className="post__headerSpecial">
                                 <VerifiedUserIcon className="post__badge" /> @semir
                         </span>
                         </h3>
